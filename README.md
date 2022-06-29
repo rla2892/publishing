@@ -1,7 +1,3 @@
-# publishing
-
-[beginner_html](./cases/beginner_html_site_styled.html)
-
 ### excercise case
 | category | title | code | reference |
 |--|---|--|-|
