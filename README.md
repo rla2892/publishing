@@ -1,5 +1,4 @@
 ### excercise case
-| category | title | code | reference |
-|--|---|--|-|
-| beginner | html tag | [beginner_html](./cases/beginner_html_site_styled.html) | [MDN](https://developer.mozilla.org/ko/docs/Web/HTML) |
-|1|2|3|4|
+| category | title | URL | code | reference |
+|--|---|--|-|-|
+| beginner | html tag | [HTML](https://rla2892.github.io/publishing/cases/beginner_html_site_styled.html) | [beginner_html](./cases/beginner_html_site_styled.html) | [MDN](https://developer.mozilla.org/ko/docs/Web/HTML) |
