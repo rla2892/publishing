@@ -1,0 +1,39 @@
+h3 {
+    background-color: white;
+}
+
+h3:hover {
+    background-color: blueviolet;
+}
+
+/* .parents div */
+/* .parents > div */
+.parents > h3 + .childone + .childtwo > h3 + div {
+    color: blueviolet;
+    border: 1px dotted black;
+    background-color: gainsboro;
+    margin: 5px;
+}
+
+button {
+    font-size: 40px;
+    border: 1px solid red;
+    border-radius: 20px 30px 40px 50px;
+}
+
+span{
+    color: tomato;
+    margin: 5px;
+    background-color: aqua;
+}
+
+.span-second:hover {
+    display: none;
+}
+
+.span-third:hover {
+    visibility: hidden;
+}
+
+
+

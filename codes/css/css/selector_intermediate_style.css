@@ -1,0 +1,26 @@
+.one {
+    font-size: 30px;
+    color: aqua;
+}
+
+.three{
+    background-color: yellow;
+    margin: 10px;
+}
+
+.one.three {
+    /* border: ; */
+}
+
+h3 {
+    background-color: white;
+}
+
+/* .parents div */
+/* .parents > div */
+.parents > .childtwo {
+    color: blueviolet;
+    border: 1px dotted black;
+    background-color: gainsboro;
+    margin: 5px;
+}

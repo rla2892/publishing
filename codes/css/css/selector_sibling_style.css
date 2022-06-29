@@ -1,0 +1,12 @@
+h3 {
+    background-color: white;
+}
+
+/* .parents div */
+/* .parents > div */
+.parents > h3 + .childone + .childtwo > h3 + div {
+    color: blueviolet;
+    border: 1px dotted black;
+    background-color: gainsboro;
+    margin: 5px;
+}
